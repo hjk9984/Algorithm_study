@@ -43,6 +43,7 @@ class stack;
 
     [BOJ_6198 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
 
+
 ****
 # Queue
 
@@ -60,7 +61,6 @@ Stack 과 다르게 FIFO 의 방식으로 동작된다.
 
 
 
-
 * 큐의 중요 함수
     * bool empty() cosnt
     * size_type size() const
@@ -68,7 +68,6 @@ Stack 과 다르게 FIFO 의 방식으로 동작된다.
     * value_type back() const
     * void push(const value_type& val)
     * void pop()
-
 
 - 기본
 
