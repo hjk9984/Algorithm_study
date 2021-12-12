@@ -1,4 +1,5 @@
 def solution(participant, completion):
+    
     # 1. 두 list를 sorting 한다.
     participant.sort()
     completion.sort()
