@@ -109,4 +109,7 @@ FIFO(First-In, First-Out : 선입선출) 또는 LILO(Last-In, Last-Out) 방식�
   data_queue.get() # (5, 2) 출력 
   
   data_queue.get() # (10, 1) 출력
+<<<<<<< HEAD
 
+=======
+>>>>>>> c6a6a17303d4432f9d4035e1081bbe525e8110d9
