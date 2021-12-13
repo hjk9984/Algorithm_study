@@ -71,6 +71,22 @@ C++ 11 이후에는 [std::unordered_map] 이라는 container가 등장했고, �
     * reserve()
 
 
+##### 21.12-14 추가
 
+[ std::unordered_set  erase 할 때 주의할 점 ]
+```
+by position (1)	 iterator erase ( const_iterator position );
+by key      (2)	 size_type erase ( const key_type& k );  // erase 한 개수 리턴.
+range       (3)	 iterator erase ( const_iterator first, const_iterator last );
+```    
+
+
+
+
+erase 하고 iterator 오류 나지 않기 위해 아래와 같이 쓰려고 했는데, 안돼서 당황했던 경험이 있다.
+
+`itr = set.erase(key);`
+    
+key 를 인자로 받는 (2)의 erase는 iterator를 리턴하지 않고 원소를 몇개 지웠는지 size_type을 반환한다. (set, mulitset 도 마찬가지)
 
 
