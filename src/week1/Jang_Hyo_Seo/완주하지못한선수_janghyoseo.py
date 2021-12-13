@@ -9,4 +9,7 @@ def solution(participant, completion):
                 return participant[i]
     # 3. 전부 다 돌아도 없을 경우에는 마지막 주자가 완주하지 못한 선수이다.
     return participant[-1]
+<<<<<<< HEAD
 
+=======
+>>>>>>> c6a6a17303d4432f9d4035e1081bbe525e8110d9
