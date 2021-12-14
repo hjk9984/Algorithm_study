@@ -60,11 +60,6 @@ Stack 과 다르게 FIFO 의 방식으로 동작된다.
 ![logo](https://media.vlpt.us/images/sbinha/post/dbc199b3-6959-464e-872d-39c503fa0b1b/Screenshot%202020-04-20%2019.19.59.png)
 
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> jimmy
 * 큐의 중요 함수
     * bool empty() cosnt
     * size_type size() const
@@ -73,10 +68,7 @@ Stack 과 다르게 FIFO 의 방식으로 동작된다.
     * void push(const value_type& val)
     * void pop()
 
-<<<<<<< HEAD
 
-=======
->>>>>>> jimmy
 - 기본
 
     [BOJ_1158 요세푸스](https://www.acmicpc.net/problem/1158)
