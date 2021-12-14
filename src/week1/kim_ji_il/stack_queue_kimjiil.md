@@ -68,7 +68,6 @@ Stack 과 다르게 FIFO 의 방식으로 동작된다.
     * void push(const value_type& val)
     * void pop()
 
-
 - 기본
 
     [BOJ_1158 요세푸스](https://www.acmicpc.net/problem/1158)
