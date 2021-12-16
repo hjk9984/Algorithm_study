@@ -43,11 +43,14 @@
 ## 2021-12-15
 * 1주차 : 해시, 스택/큐
 * 실전 문제(2)
-    * ~~
-    * ~~
+    * 추월 : https://www.acmicpc.net/problem/2002
+    * 문자열 폭발 : https://www.acmicpc.net/problem/9935
 *  개별 문제
-   *  김현준 : 
+   *  김현준 : 추석 트래픽 (https://programmers.co.kr/learn/courses/30/lessons/17676)
+   *  김지일 : 요세푸스 (https://www.acmicpc.net/problem/1158)
+   *  송유진 : 124나라의 숫자 (https://programmers.co.kr/learn/courses/30/lessons/12899)
 * 벌금
+  * 윤지윤 (이론 지각, 문제 지각 2000), 김성현 (문제 지각 1000), 장효서 (문제 지각, 결석권 사용 1000)
 <br>
 <br>
 
