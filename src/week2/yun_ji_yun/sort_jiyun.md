@@ -148,6 +148,9 @@ pivot 값 바로 전까지 분류를 완료하면 pivot을 pivot보다 작은 �
 * **sort(v.begin(), v.end(), less<자료형>())**
 
 **참고한 자료**
+
 https://gyoogle.dev/blog/algorithm/Quick%20Sort.html
+
 https://blockdmask.tistory.com/178
+
 https://www.youtube.com/watch?v=2YvFRAC8UTM&list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l&index=10
