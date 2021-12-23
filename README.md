@@ -51,8 +51,19 @@
    *  김지일 : 요세푸스 (https://www.acmicpc.net/problem/1158)
    *  송유진 : 124나라의 숫자 (https://programmers.co.kr/learn/courses/30/lessons/12899)
 * 벌금
-  * 윤지윤 (이론 지각, 문제 지각 2000), 김성현 (문제 지각 1000), 장효서 (문제 지각, 결석권 사용 1000)
+  * 윤지윤 (이론 지각 1000, 문제 지각 1000), 김성현 (문제 지각 1000)
 <br>
+
+## 2021-12-22
+* 2주차 : 힙, 정렬
+* 실전 문제(2)
+    * 신입사원 : https://www.acmicpc.net/problem/1946
+    * 카드 정렬하기 : https://www.acmicpc.net/problem/1715
+*  개별 문제
+   *  김지일 : 좌표 압축 (https://www.acmicpc.net/problem/18870)
+   *  송유진 : 숫자 문자열과 영단어 (https://programmers.co.kr/learn/courses/30/lessons/81301)
+* 벌금
+  * 김현준 (문제 지각 1000), 윤지윤 (문제 지각 2000), 김성현 (문제 지각 1000, 이론 지각 2000)
 <br>
 
 # :bulb: 새로 알게 된 점 
