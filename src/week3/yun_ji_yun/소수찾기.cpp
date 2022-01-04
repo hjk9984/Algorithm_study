@@ -50,15 +50,10 @@ void power_set(int k, int size, string numbers) {
         for(int i = 0; i < size; i++) {
             if (setUsed[i] == true) {
                 P.push_back(numbers[i]);
-                // cout << numbers[i] << " ";
             }
         }
         if (P.size() > 0) {
             permutation(0, P.size(), P);
-            // for(int i = 0; i < P.size(); i++) {
-            //     cout << P[i] << " ";
-            // }
-            // cout << "\n";
         }
         return ;
     }
@@ -79,14 +74,13 @@ bool is_prime_number(int num) {
     return true;
 }
 
-int main() {
-    string numbers = "011";
+int solution(string numbers) {
     int result = 0;
 
     int size = numbers.length();
 
     power_set(0,size,numbers);
-
+    
     sort(answer.begin(), answer.end());
     answer.erase(unique(answer.begin(), answer.end()), answer.end());
     
@@ -94,9 +88,5 @@ int main() {
         if (is_prime_number(answer[i]))
             result++;
     }
-    for (int i = 0; i < answer.size(); i++) {
-        cout << answer[i] << " ";
-    }
-    cout << "\n";
-    cout << result << endl;
+    return result;
 }
