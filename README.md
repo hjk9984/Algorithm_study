@@ -66,6 +66,20 @@
   * 김현준 (문제 지각 1000), 윤지윤 (문제 지각 2000), 김성현 (문제 지각 1000, 이론 지각 2000)
 <br>
 
+## 2022-01-05
+* 3주차 : brute-force, greedy algorithm
+* 실전 문제(2)
+    * 신입사원 : https://www.acmicpc.net/problem/1946
+    * 카드 정렬하기 : https://www.acmicpc.net/problem/1715
+*  개별 문제
+   *  김현준 : 수리공 환승 (https://www.acmicpc.net/problem/1449) 
+   *  송유진 : 신규아이디추천 (https://programmers.co.kr/learn/courses/30/lessons/72410)
+   *  김성현 : 토마토 (https://www.acmicpc.net/problem/7576)
+* 벌금
+  * 김지일(문제 지각 1000, 결석권 사용), 김현준(이론 지각 1000), 송유진(결석권 사용), 윤지윤(문제 지각 3000)
+<br>
+
+
 # :bulb: 새로 알게 된 점 
 
 <br>
