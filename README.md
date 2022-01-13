@@ -80,6 +80,18 @@
 <br>
 
 
+## 2022-01-12
+* 4주차 : dynamic programming, DFS/BFS
+* 실전 문제(2)
+    * 인구 이동 : https://www.acmicpc.net/problem/16234
+    * 1학년 : https://www.acmicpc.net/problem/5557
+*  개별 문제
+   *  김성현 : 촌수관리 (https://www.acmicpc.net/problem/2644)
+* 벌금
+  * 김지일(문제 지각 1000), 김현준(문제 지각 2000), 송유진(결석 1000, 문제 지각 1000), 윤지윤(문제 지각 5000)
+
+<br>
+
 # :bulb: 새로 알게 된 점 
 
 <br>
