@@ -44,9 +44,9 @@ C++ 11 이후에는 [std::unordered_map] 이라는 container가 등장했고, �
 
 
     * open addressing
-
+    
         * 충돌이 발생하면 해당 인덱스가 아닌 비어 있는 인덱스로 할당하는 방법.
-
+    
         * linear probing, Quadratic probing, Double hashing 의 방법이 있다.
 
 
@@ -78,7 +78,7 @@ C++ 11 이후에는 [std::unordered_map] 이라는 container가 등장했고, �
 by position (1)	 iterator erase ( const_iterator position );
 by key      (2)	 size_type erase ( const key_type& k );  // erase 한 개수 리턴.
 range       (3)	 iterator erase ( const_iterator first, const_iterator last );
-```    
+```
 
 
 
