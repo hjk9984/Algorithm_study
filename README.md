@@ -92,9 +92,7 @@
 
 <br>
 
-# :bulb: 새로 알게 된 점 
 
-<br>
 <br>
 
 # :sparkles: Tips
